@@ -1,0 +1,7 @@
+{
+  "name": "myDevinetteGame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myDevinetteGame",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
